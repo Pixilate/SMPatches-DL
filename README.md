@@ -8,6 +8,14 @@ Downloader for SM Patches
 >Your patches don't work, what gives ?
 
 Make sure game patching is enabled and that you're on Luma 7.x  as I've dropped code.bin  support
+>What does this download ?
+
+It downloads IPS patches for the corresponding game and creates needed directories for them
+
+>What do these patches include ?
+
+No Outlines, QR Genning, and Unlimited Scans.
+
 # Credits
  
  * MatMaf as it has been based on his updater
